@@ -1,0 +1,34 @@
+# ★★ 这个仓库的两大主角都必须提交，一个都不能忽略：
+#   data/ = 长期结构化数据仓库（股票、公告、K线、市值）
+#   site/ = GitHub Pages 的发布源
+#
+# ⚠️ 绝对不要照抄代码仓库 panda-board 的那份 .gitignore：
+#    它第一行就是 data/（为了不把 80MB 的 board.db 提交进去）。
+#    这里照搬的话，git add -A 会把整个数据仓库跳过，
+#    每次"更新成功"实际只提交了一个空壳 —— 而且从日志上完全看不出来。
+
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+*.tmp
+*.log
+
+# 凭据、私钥、数据库一律不进仓库
+.env
+*.env
+*.db
+*.db-wal
+*.db-shm
+*.sqlite*
+*.key
+*.pem
+id_deploy*
+backups/
