@@ -1,0 +1,196 @@
+{
+  "format": 1,
+  "generated_at": "2026-09-16T16:37:24.723762+08:00",
+  "files": {
+    ".nojekyll": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    "dashboard.45441333777b6241.js": {
+      "sha256": "45441333777b6241a547deabefb53aa6b05710a45f23a7bf7a3df4f22dd12983",
+      "size": 13919
+    },
+    "dashboard.html": {
+      "sha256": "a3ff1cf6307c568bbdf950a746a19eb4bae1b3a086ae0dd989312b30b78daed3",
+      "size": 9735
+    },
+    "dashboard.js": {
+      "sha256": "45441333777b6241a547deabefb53aa6b05710a45f23a7bf7a3df4f22dd12983",
+      "size": 13919
+    },
+    "data_kline_0.3389b1f343d1b257.js": {
+      "sha256": "3389b1f343d1b257af5e7d94a1d39958bf3a68c5cb8df33c599e671e3745bba3",
+      "size": 1128372
+    },
+    "data_kline_0.js": {
+      "sha256": "3389b1f343d1b257af5e7d94a1d39958bf3a68c5cb8df33c599e671e3745bba3",
+      "size": 1128372
+    },
+    "data_kline_1.030117e645159f97.js": {
+      "sha256": "030117e645159f9756782c2341c66c5bc0214b5ffbf43c3c1c1d97ecf09e2fa9",
+      "size": 1104548
+    },
+    "data_kline_1.js": {
+      "sha256": "030117e645159f9756782c2341c66c5bc0214b5ffbf43c3c1c1d97ecf09e2fa9",
+      "size": 1104548
+    },
+    "data_kline_10.a513de4d1bf2cd7b.js": {
+      "sha256": "a513de4d1bf2cd7bcaa8b03a55caceb8a47951b66b80b9dc91d505b8c0edd704",
+      "size": 1006258
+    },
+    "data_kline_10.js": {
+      "sha256": "a513de4d1bf2cd7bcaa8b03a55caceb8a47951b66b80b9dc91d505b8c0edd704",
+      "size": 1006258
+    },
+    "data_kline_11.04a75f231569ffc9.js": {
+      "sha256": "04a75f231569ffc980976d574c5f56b8089424940c0efb84e7ff2cddd26f6bb3",
+      "size": 1156811
+    },
+    "data_kline_11.js": {
+      "sha256": "04a75f231569ffc980976d574c5f56b8089424940c0efb84e7ff2cddd26f6bb3",
+      "size": 1156811
+    },
+    "data_kline_12.6223d11ad462a0f4.js": {
+      "sha256": "6223d11ad462a0f4722927b8b0e5a2dcf4f16fbc5500ffa8ee1eb51cf1ef2ab2",
+      "size": 1031949
+    },
+    "data_kline_12.js": {
+      "sha256": "6223d11ad462a0f4722927b8b0e5a2dcf4f16fbc5500ffa8ee1eb51cf1ef2ab2",
+      "size": 1031949
+    },
+    "data_kline_13.a58290bb03eb9638.js": {
+      "sha256": "a58290bb03eb96387eb5380b847c7b41604cc9f2343f42b13fa11ceb7dcf42f9",
+      "size": 1101572
+    },
+    "data_kline_13.js": {
+      "sha256": "a58290bb03eb96387eb5380b847c7b41604cc9f2343f42b13fa11ceb7dcf42f9",
+      "size": 1101572
+    },
+    "data_kline_14.8703890c8e4289c6.js": {
+      "sha256": "8703890c8e4289c6053c05b5450dc7e4f31fffdb2ef3b25a3c8156458007aec2",
+      "size": 1198256
+    },
+    "data_kline_14.js": {
+      "sha256": "8703890c8e4289c6053c05b5450dc7e4f31fffdb2ef3b25a3c8156458007aec2",
+      "size": 1198256
+    },
+    "data_kline_15.fbafe9f6a390a64d.js": {
+      "sha256": "fbafe9f6a390a64dc62dd579572b0c55e29dfeee63a848b0a1b2aade55514ad4",
+      "size": 1092168
+    },
+    "data_kline_15.js": {
+      "sha256": "fbafe9f6a390a64dc62dd579572b0c55e29dfeee63a848b0a1b2aade55514ad4",
+      "size": 1092168
+    },
+    "data_kline_2.826e71e6d6027882.js": {
+      "sha256": "826e71e6d60278829a0710f276e7cbe3a08be049d5590a6740c976abc63128f8",
+      "size": 965768
+    },
+    "data_kline_2.js": {
+      "sha256": "826e71e6d60278829a0710f276e7cbe3a08be049d5590a6740c976abc63128f8",
+      "size": 965768
+    },
+    "data_kline_3.da64036d9bd7f6f5.js": {
+      "sha256": "da64036d9bd7f6f57a4bd2b8e2d57ea51a5a0de23c24be27f81fb35c192ae5c5",
+      "size": 1032299
+    },
+    "data_kline_3.js": {
+      "sha256": "da64036d9bd7f6f57a4bd2b8e2d57ea51a5a0de23c24be27f81fb35c192ae5c5",
+      "size": 1032299
+    },
+    "data_kline_4.fa8bea2a3c4f40cd.js": {
+      "sha256": "fa8bea2a3c4f40cd4b5c5d702c8b1a64e41311053d8a5dac4709e187024c13c1",
+      "size": 1029442
+    },
+    "data_kline_4.js": {
+      "sha256": "fa8bea2a3c4f40cd4b5c5d702c8b1a64e41311053d8a5dac4709e187024c13c1",
+      "size": 1029442
+    },
+    "data_kline_5.cff2b33073cf5761.js": {
+      "sha256": "cff2b33073cf57611eaffcbd90d23a9caf48d28a40cdddb0f8d5e0449ff027ab",
+      "size": 1010599
+    },
+    "data_kline_5.js": {
+      "sha256": "cff2b33073cf57611eaffcbd90d23a9caf48d28a40cdddb0f8d5e0449ff027ab",
+      "size": 1010599
+    },
+    "data_kline_6.5d098321b5a70735.js": {
+      "sha256": "5d098321b5a70735414f4b89ec9454d93cda7d397c9ee6d8405fb1b5e2673859",
+      "size": 933816
+    },
+    "data_kline_6.js": {
+      "sha256": "5d098321b5a70735414f4b89ec9454d93cda7d397c9ee6d8405fb1b5e2673859",
+      "size": 933816
+    },
+    "data_kline_7.11d3940b9c763336.js": {
+      "sha256": "11d3940b9c763336a21248f63d2a8051888007f240c5e2268dd006dd9f9e086f",
+      "size": 1088608
+    },
+    "data_kline_7.js": {
+      "sha256": "11d3940b9c763336a21248f63d2a8051888007f240c5e2268dd006dd9f9e086f",
+      "size": 1088608
+    },
+    "data_kline_8.13f219690f6f6563.js": {
+      "sha256": "13f219690f6f6563769a5f46ec605f43c88a573287627a9c4bf24f40892dc21e",
+      "size": 1029150
+    },
+    "data_kline_8.js": {
+      "sha256": "13f219690f6f6563769a5f46ec605f43c88a573287627a9c4bf24f40892dc21e",
+      "size": 1029150
+    },
+    "data_kline_9.5d64d9a5b22747c8.js": {
+      "sha256": "5d64d9a5b22747c8ff7438e968ec6874c74e1b2d1af8852e29346c61c536ea9d",
+      "size": 1085490
+    },
+    "data_kline_9.js": {
+      "sha256": "5d64d9a5b22747c8ff7438e968ec6874c74e1b2d1af8852e29346c61c536ea9d",
+      "size": 1085490
+    },
+    "data_kline_manifest.2f779f208aa32069.js": {
+      "sha256": "2f779f208aa32069dcabf144564bf862bddb9ac340619b0cb214f89e4eee3583",
+      "size": 711
+    },
+    "data_kline_manifest.js": {
+      "sha256": "2f779f208aa32069dcabf144564bf862bddb9ac340619b0cb214f89e4eee3583",
+      "size": 711
+    },
+    "data_list.83b236ea12ea15f2.js": {
+      "sha256": "83b236ea12ea15f211ddf9e1da115ae671c63f9c571be246b44fc24e9d9d4ec7",
+      "size": 2661307
+    },
+    "data_list.js": {
+      "sha256": "83b236ea12ea15f211ddf9e1da115ae671c63f9c571be246b44fc24e9d9d4ec7",
+      "size": 2661307
+    },
+    "index.html": {
+      "sha256": "a3ff1cf6307c568bbdf950a746a19eb4bae1b3a086ae0dd989312b30b78daed3",
+      "size": 9735
+    },
+    "lib/LICENSE-Apache-2.0.txt": {
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+      "size": 11358
+    },
+    "lib/README.md": {
+      "sha256": "a7643d74baf4d19fac7b6ec1aeb84fd593895acf7539f5453f5ea060be27b8a7",
+      "size": 1147
+    },
+    "lib/echarts.min.3ed43f0d8c36a780.js": {
+      "sha256": "3ed43f0d8c36a780e708dab944efb991c215802ee1a892f5c5838c39e5a25476",
+      "size": 605715
+    },
+    "lib/echarts.min.js": {
+      "sha256": "3ed43f0d8c36a780e708dab944efb991c215802ee1a892f5c5838c39e5a25476",
+      "size": 605715
+    },
+    "robots.txt": {
+      "sha256": "331ea9090db0c9f6f597bd9840fd5b171830f6e0b3ba1cb24dfa91f0c95aedc1",
+      "size": 26
+    }
+  },
+  "stocks": 3107,
+  "source": "eastmoney",
+  "range": {
+    "start": "2026-06-19",
+    "end": "2026-09-16"
+  }
+}
