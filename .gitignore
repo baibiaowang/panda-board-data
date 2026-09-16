@@ -1,6 +1,6 @@
 # ★★ 这个仓库的两大主角都必须提交，一个都不能忽略：
 #   data/ = 长期结构化数据仓库（股票、公告、K线、市值）
-#   site/ = GitHub Pages 的发布源
+#   docs/ = GitHub Pages 的发布源（Pages 分支发布只认 / 或 /docs，不认 /site）
 #
 # ⚠️ 绝对不要照抄代码仓库 panda-board 的那份 .gitignore：
 #    它第一行就是 data/（为了不把 80MB 的 board.db 提交进去）。

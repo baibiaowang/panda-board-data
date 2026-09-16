@@ -9,7 +9,8 @@ data/
   meta/export.json        导出计数
   meta/fetch_days.json    逐日采集完整性记录
   meta/board_meta.json    键值元数据
-site/                     GitHub Pages 发布目录（Branch: main, Folder: /site）
+docs/                     GitHub Pages 发布目录（Branch: main, Folder: /docs）
+                          ★ Pages 分支发布只支持 / 或 /docs，不支持 /site
 ```
 
 ## 写入方式
