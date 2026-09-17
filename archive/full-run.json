@@ -1,0 +1,41 @@
+{
+  "ok": true,
+  "start": "2026-07-20",
+  "end": "2026-09-17",
+  "total_days": 60,
+  "segments": 2,
+  "seg_days": 30,
+  "failed_segments": [],
+  "export": {
+    "ok": true,
+    "stocks": 5684,
+    "announcements": 134144,
+    "klines": 787784,
+    "market_caps": 4967
+  },
+  "finished_at": "2026-09-17T14:06:16+08:00",
+  "results": [
+    {
+      "seg": 1,
+      "start": "2026-07-20",
+      "end": "2026-08-18",
+      "ok": true,
+      "seconds": 188,
+      "days": 30,
+      "new": 31180,
+      "klines": 105406,
+      "complete_days": 30
+    },
+    {
+      "seg": 2,
+      "start": "2026-08-19",
+      "end": "2026-09-17",
+      "ok": true,
+      "seconds": 324,
+      "days": 30,
+      "new": 67924,
+      "klines": 113327,
+      "complete_days": 30
+    }
+  ]
+}
