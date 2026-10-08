@@ -1,5 +1,21 @@
 # panda-board-data
 
+> **用途**：A股公告看板的**数据仓库兼静态站点发布源**。存放采集产出的结构化数据
+> （`data/stocks/<code>.json`：股票信息 / 公告 / K线 / 市值）与发布目录 `docs/`，
+> 由 GitHub Pages 对外提供静态站点。
+>
+> **状态**：线上生产。机器人账号 `panda-board-bot` 每天自动推送约 3 次，**不需要手动编辑**。
+>
+> **在线站点**：<https://baibiaowang.github.io/panda-board-data/>
+>
+> **配套仓库**：
+> [panda-board](https://github.com/baibiaowang/panda-board)（程序代码） ·
+> [panda-board-full](https://github.com/baibiaowang/panda-board-full)（备用全量拉取仓）
+>
+> **说明**：本仓由 PandaStack 一次性沙箱写入——clone → 导入临时 SQLite → 采集 → 建站 →
+> 导出 → 一个原子提交，沙箱随即销毁。采集、建站、校验任一环节失败就不提交，
+> Pages 上始终保留上一份可用版本。详见下方「写入方式」。
+
 panda-board 的**数据仓库**兼**静态网站发布源**。
 
 ```text
