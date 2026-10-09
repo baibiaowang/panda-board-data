@@ -1,1 +1,1 @@
-[{"key":"kline_last_attempt","value":"{\"target_end\": \"2026-10-08\", \"requested\": 123, \"errors\": 25, \"empty\": 0, \"at\": \"2026-10-09T12:03:04.726530+08:00\"}"},{"key":"last_update_at","value":"2026-10-09T12:03:26+08:00"},{"key":"last_version","value":"20261009-120034"}]
+[{"key":"kline_last_attempt","value":"{\"target_end\": \"2026-10-09\", \"requested\": 4845, \"errors\": 24, \"empty\": 0, \"at\": \"2026-10-09T20:04:53.032561+08:00\"}"},{"key":"last_update_at","value":"2026-10-09T20:05:13+08:00"},{"key":"last_version","value":"20261009-200021"}]
