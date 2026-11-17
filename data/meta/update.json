@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "started_at": "2026-11-16T20:00:25+08:00",
-  "finished_at": "2026-11-16T20:06:11+08:00",
-  "announcement_added": 411,
-  "kline_updated": 745143,
-  "market_cap_updated": 4550,
-  "commit": "324b912e4188d539e617c8793e31b13dfe3e093f",
-  "version": "20261116-200025"
+  "started_at": "2026-11-17T08:00:23+08:00",
+  "finished_at": "2026-11-17T08:05:21+08:00",
+  "announcement_added": 1436,
+  "kline_updated": 1280,
+  "market_cap_updated": 4709,
+  "commit": null,
+  "version": "20261117-080023"
 }
